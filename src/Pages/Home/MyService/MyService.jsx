@@ -1,8 +1,8 @@
 
 const MyService = () => {
     return (
-        <div className="my-20 lg:my-32">
-            <h1 className="text-7xl text-[#b5a7e7] text-center font-bold">My Services</h1>
+        <div className="py-20 lg:py-12 bg-slate-900">
+            <h1 className="text-3xl lg:text-7xl text-[#b5a7e7] text-center font-bold">My Services</h1>
             <div className="grid lg:grid-cols-3 gap-10 mt-16 mx-2">
                 <div className="bg-slate-800 p-5 rounded-xl text-center shadow-md hover:-translate-y-3 duration-500">
                     <h1 className="text-lg font-semibold text-[#b5a7e7]">Keyword research</h1>
