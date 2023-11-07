@@ -4,6 +4,7 @@ import Education from "../Education/Education";
 import Key from "../Key Streanth/Key";
 import MyService from "../MyService/MyService";
 import MyWork from "../MyWork/MyWork";
+import Response from "../Response/Response";
 
 const Home = () => {
     return (
@@ -16,6 +17,7 @@ const Home = () => {
                     <Education></Education>
                     <MyService></MyService>
                     <MyWork></MyWork>
+                    <Response/>
                 </div>
             </div>
             <div>

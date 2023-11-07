@@ -13,19 +13,16 @@ const Footer = () => {
                     <span className="footer-title">Social</span>
                     <div className="flex flex-col lg:flex-row  gap-4">
                         <a className="hover:text-[#7163A2] text-xl" href="https://www.linkedin.com/in/mdsulyman"><FaLinkedinIn></FaLinkedinIn></a>
-                        <a className="hover:text-[#7163A2] text-xl" href="https://www.facebook.com/mdsulyman.marketing.specialist?mibextid=ZbWKwL"><FaFacebook></FaFacebook></a>
-                        <a className="hover:text-[#7163A2] text-xl" href="https://www.instagram.com/______sulymanahmedxpro______/"><FaInstagram></FaInstagram></a>
+                        <a className="hover:text-[#7163A2] text-xl" href="https://www.facebook.com/md.sulyman.bd"><FaFacebook></FaFacebook></a>
+                        <a className="hover:text-[#7163A2] text-xl" href="https://www.instagram.com/mdsulymanbd/"><FaInstagram></FaInstagram></a>
                         <a className="hover:text-[#7163A2] text-xl" href="https://www.pinterest.co.uk/MD_SULYMAN/"><FaPinterest></FaPinterest></a>
-                        <div className="flex items-center"><FaPhone></FaPhone>
-                        <p className="px-2">+880 1568-723929</p></div>
+                        <div className="flex items-center"><a className="hover:text-[#7163A2] text-xl" href="https://wa.me/message/34OO4MRL7FQTL1"><FaPhone></FaPhone>
+                        <p className="px-2">+880 1329-648992</p></a></div>
                         <div className="flex items-center"><FaGofore></FaGofore>
                         <p className="px-2">sulymanahmedbd@gmail.com</p></div>
                     </div>
                 </div>
             </footer>
-
-
-            <p className="text-center text-sm py-2 border-t border-slate-600">Coded by <a className="text-[#7163A2]" href="https://github.com/safatsaat2">Sakibur Rahman Safat</a></p>
         </div>
 
     );
