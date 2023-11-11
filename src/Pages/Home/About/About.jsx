@@ -9,8 +9,10 @@ const About = () => {
                 </Slide>
                 <div className='lg:w-1/2 lg:ml-10'>
                     <Fade duration={3000}>
-                        <h1 className="text-3xl lg:text-7xl font-bold text-[#b5a7e7]">About Me</h1>
-                        <p className="py-6 font-medium">As a dedicated digital marketer, I bring passion and expertise to drive impactful results for businesses in the online realm. With a deep understanding of the digital landscape and strategic marketing principles, I excel in crafting innovative campaigns that resonate with target audiences and deliver measurable outcomes. From optimizing user experiences to leveraging SEO, social media, and PPC advertising, I have successfully executed multi-channel marketing strategies that boost brand visibility and drive conversions. Collaborating with cross-functional teams, I prioritize tasks, meet deadlines, and maintain meticulous attention to detail. Continuously learning and adapting to industry advancements, I thrive on making a meaningful impact in helping businesses grow and thrive in the digital age. With my strategic mindset, creative approach, and results-driven focus, I am a valuable asset in achieving digital marketing objectives.</p>
+                        <h1 className="text-3xl lg:text-7xl font-bold text-[#b5a7e7]">About</h1>
+                        <p className="py-6 font-medium">As a business consultant, my role is to provide expert guidance and support to help businesses thrive in today's competitive landscape. With a diverse skill set and industry knowledge, I assist organizations in identifying and addressing their specific challenges and opportunities. I work closely with clients to develop and refine strategic plans that align with their goals, conducting thorough market research to ensure informed decision-making.
+
+One of my key responsibilities is to optimize business processes, enhancing efficiency and cost-effectiveness. Financial analysis is another area where I provide valuable insights, helping clients manage their finances, make informed investment decisions, and achieve financial stability. Additionally, I guide organizations through change management, helping them implement new strategies and technologies. Whether it's marketing and branding, risk management, or human resources, my expertise is tailored to meet the unique needs of each business, ultimately contributing to their long-term success.</p>
                     </Fade>
                 </div>
             </div>
