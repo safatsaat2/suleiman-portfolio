@@ -5,7 +5,7 @@ const Response = () => {
       <div id="slide1" className="carousel-item relative w-full">
         <div className="w-full mx-auto">
             <img
-          src="https://i.ibb.co/dKVwLby/replicate-prediction-hjpwparb5757d6vunx3foztvkq.jpg"
+          src="https://i.ibb.co/zmCf799/1698783966341.jpg"
           className="mx-auto h-80 rounded-lg"
         />
         <h1 className="text-center text-2xl lg:text-4xl font-bold text-[#b5a7e7] pt-5">Business Plan</h1>
@@ -41,7 +41,7 @@ const Response = () => {
       <div id="slide3" className="carousel-item relative w-full">
         <div className="w-full mx-auto">
             <img
-          src="https://i.ibb.co/q5XrDgT/replicate-prediction-6k2hnqzb73hgti3g6b7hexhdky.jpg"
+          src="https://i.ibb.co/2SR059S/replicate-prediction-4ub7dzzbotlmroeffizrf2bzue-2.jpg"
           className="mx-auto h-80 rounded-lg"
         />
         <h1 className="text-center text-2xl lg:text-4xl font-bold text-[#b5a7e7] pt-5">Successful Work</h1>

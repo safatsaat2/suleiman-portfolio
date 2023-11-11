@@ -4,7 +4,7 @@ const Banner = () => {
 
     const [value, setValue] = useState(0);
 
-    const array = ['Marketing Specialist', 'Graphic Designer', 'Web Developer',];
+    const array = ['Business Consultant','Marketing Specialist', 'Graphic Designer', 'Web Developer',];
 
     // array.map(arr => setInterval(() => {
     //     setValue(arr)
@@ -22,8 +22,8 @@ const Banner = () => {
 
     return (
         <div className="hero ">
-            <div className="hero-content flex-col lg:flex-row-reverse">
-                <img src="https://i.ibb.co/fSV0ynH/Frame-1-6.png" className="max-w-sm w-full rounded-lg" />
+            <div className="hero-content flex-col gap-10 lg:flex-row">
+                <img src="https://i.ibb.co/XDBbSCX/1699725219780-1.jpg" className="max-w-sm w-full rounded-full border-[10px] border-[#162929]" />
                 <div className='lg:w-1/2'>
                     <p className="text-[#b5a7e7] mb-4 text-lg">{array[value]}</p>
                     <h1 className="text-2xl lg:text-4xl font-bold">Hi, I am <span className="text-[#b5a7e7]">MD SULYMAN</span> From Bangladesh <br />  </h1>
