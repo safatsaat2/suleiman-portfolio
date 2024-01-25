@@ -33,6 +33,10 @@ const Education = () => {
                     <div className="my-5">
                         <div className="mx-5">
                             <h2 className="text-center my-3 text-[#b5a7e7] border-b-2 border-[#7163A2] pb-2">Education</h2>
+                            <h1 className="font-medium my-2 text-[#b5a7e7]">2021</h1>
+                            <h3>Digital Marketing Certificate (D.M.C) - The Open University | United Kingdom</h3>
+                            <h1 className="font-medium my-2 text-[#b5a7e7]">2024</h1>
+                            <h3>YouTube Music Certificate (Y.M.C) - YouTube Music | United State</h3>
                             <h1 className="font-medium my-2 text-[#b5a7e7]">2022</h1>
                             <h3>Higher Secondary Certificate (H.S.C) - Humanities at Universal College | Sylhet, Bangladesh</h3>
                             <h1 className="font-medium my-2 text-[#b5a7e7]">2020</h1>

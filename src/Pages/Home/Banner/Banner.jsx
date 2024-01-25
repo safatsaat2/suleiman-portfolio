@@ -4,7 +4,7 @@ const Banner = () => {
 
     const [value, setValue] = useState(0);
 
-    const array = ['Business Consultant','Marketing Specialist', 'Graphic Designer', 'Web Developer',];
+    const array = ['Graphic Designer','Marketing Specialist', 'Graphic Designer', 'Marketing Specialist',];
 
     // array.map(arr => setInterval(() => {
     //     setValue(arr)
@@ -27,7 +27,7 @@ const Banner = () => {
                 <div className='lg:w-1/2'>
                     <p className="text-[#b5a7e7] mb-4 text-lg">{array[value]}</p>
                     <h1 className="text-2xl lg:text-4xl font-bold">Hi, I am <span className="text-[#b5a7e7]">MD SULYMAN</span> From Bangladesh <br />  </h1>
-                    <p className="py-6 font-medium"><span className='text-[#b5a7e7]'>Join me</span> on this journey through my portfolio, and witness the transformative impact of digital marketing in action.</p>
+                    <p className="py-6 font-medium"><span className='text-[#b5a7e7]'>Empowering brands </span>through innovative strategies and tailored solutions, we propel your business to new heights in the digital landscape.</p>
                 </div>
             </div>
         </div>

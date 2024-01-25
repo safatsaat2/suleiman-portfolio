@@ -10,10 +10,10 @@ const About = () => {
                 <div className='lg:w-1/2 lg:ml-10'>
                     <Fade duration={3000}>
                         <h1 className="text-3xl lg:text-7xl font-bold text-[#b5a7e7]">About</h1>
-                        <p className="py-6 font-medium">As a business consultant, my role is to provide expert guidance and support to help businesses thrive in today's competitive landscape. With a diverse skill set and industry knowledge, I assist organizations in identifying and addressing their specific challenges and opportunities. I work closely with clients to develop and refine strategic plans that align with their goals, conducting thorough market research to ensure informed decision-making.
-<br  />
-<br  />
-One of my key responsibilities is to optimize business processes, enhancing efficiency and cost-effectiveness. Financial analysis is another area where I provide valuable insights, helping clients manage their finances, make informed investment decisions, and achieve financial stability. Additionally, I guide organizations through change management, helping them implement new strategies and technologies. Whether it's marketing and branding, risk management, or human resources, my expertise is tailored to meet the unique needs of each business, ultimately contributing to their long-term success.</p>
+                        <p className="py-6 font-medium">In my role as a digital marketing enthusiast, I am passionate about leveraging online channels to drive brand visibility and engagement. With a focus on strategies such as SEO, social media, email marketing, and content creation, I strive to create impactful online campaigns.
+                        <br />
+                        <br />
+                        I am adept at harnessing the power of data analytics to target specific demographics and refine marketing approaches for optimal results. Embracing the ever-evolving landscape of digital marketing, I am committed to staying abreast of industry trends and adopting innovative techniques to enhance brand presence. Through my dedication to mastering the intricacies of digital marketing, I aim to contribute to the success and growth of businesses in the digital realm.</p>
                     </Fade>
                 </div>
             </div>
