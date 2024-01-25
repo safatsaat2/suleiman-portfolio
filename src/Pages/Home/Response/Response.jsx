@@ -11,7 +11,7 @@ const Response = () => {
         <h1 className="text-center text-2xl lg:text-4xl font-bold text-[#b5a7e7] pt-5">Business Plan</h1>
         <p className="text-center text-base w-80 mx-auto pb-20 pt-5">I work on top-level execution through strategic planning aligned with your business goals and objectives. This includes conducting market research, analyzing industry trends, and identifying growth opportunities.</p>
         </div>
-        <div className="absolute flex justify-center transform -translate-y-1/2 left-5 right-5 top-1/2">
+        <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
           <a href="#slide4" className="btn btn-circle">
             ❮
           </a>

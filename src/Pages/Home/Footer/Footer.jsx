@@ -12,12 +12,12 @@ const Footer = () => {
                 <div>
                     <span className="footer-title">Social</span>
                     <div className="flex flex-col lg:flex-row  gap-4">
-                        <a className="hover:text-[#7163A2] text-xl" href="https://www.linkedin.com/in/mdsulyman"><FaLinkedinIn></FaLinkedinIn></a>
-                        <a className="hover:text-[#7163A2] text-xl" href="https://www.facebook.com/md.sulyman.bd"><FaFacebook></FaFacebook></a>
+                        <a className="hover:text-[#7163A2] text-xl" href="https://www.linkedin.com/in/md-sulyman/"><FaLinkedinIn></FaLinkedinIn></a>
+                        <a className="hover:text-[#7163A2] text-xl" href="https://www.facebook.com/md.sulymanUS"><FaFacebook></FaFacebook></a>
                         <a className="hover:text-[#7163A2] text-xl" href="https://www.instagram.com/mdsulymanbd/"><FaInstagram></FaInstagram></a>
                         <a className="hover:text-[#7163A2] text-xl" href="https://www.pinterest.co.uk/MD_SULYMAN/"><FaPinterest></FaPinterest></a>
                         <div className="flex items-center"><a className="hover:text-[#7163A2] text-[14px] flex items-center" href="https://wa.me/message/34OO4MRL7FQTL1"><FaPhoneAlt/>
-                        <p className="px-2 text-[14px]">+880 1329-648992</p></a></div>
+                        <p className="px-2 text-[14px]">+8801568723929</p></a></div>
                         <div className="flex items-center"><FaGofore></FaGofore>
                         <p className="px-2">sulymanahmedbd@gmail.com</p></div>
                     </div>

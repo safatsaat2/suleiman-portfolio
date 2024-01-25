@@ -5,6 +5,18 @@ const MyService = () => {
             <h1 className="text-3xl lg:text-7xl text-[#b5a7e7] text-center font-bold">Services</h1>
             <div className="grid lg:grid-cols-3 gap-10 mt-16 mx-2">
                 <div className="bg-slate-800 p-5 rounded-xl text-center shadow-md hover:-translate-y-3 duration-500">
+                    <h1 className="text-lg font-semibold text-[#b5a7e7]">Data Entry</h1>
+                    <p>Tasks involving the input of data into a computerized system.</p>
+                </div>
+                <div className="bg-slate-800 p-5 rounded-xl text-center shadow-md hover:-translate-y-3 duration-500">
+                    <h1 className="text-lg font-semibold text-[#b5a7e7]">Email Marketing</h1>
+                    <p> the practice of sending messages, usually commercial, to a group of people via email.</p>
+                </div>
+                <div className="bg-slate-800 p-5 rounded-xl text-center shadow-md hover:-translate-y-3 duration-500">
+                    <h1 className="text-lg font-semibold text-[#b5a7e7]">Graphic design</h1>
+                    <p>It is the art of using visuals to convey messages in print and digital media.</p>
+                </div>
+                <div className="bg-slate-800 p-5 rounded-xl text-center shadow-md hover:-translate-y-3 duration-500">
                     <h1 className="text-lg font-semibold text-[#b5a7e7]">Keyword research</h1>
                     <p>Identifying relevant keywords and phrases that users search for in search engines</p>
                 </div>
