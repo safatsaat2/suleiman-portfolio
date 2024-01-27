@@ -6,6 +6,7 @@ import MyService from "../MyService/MyService";
 import MyWork from "../MyWork/MyWork";
 import Response from "../Response/Response";
 import Video from "../../Video/Video";
+import Review from "../Review/Review";
 
 const Home = () => {
     return (
@@ -18,8 +19,10 @@ const Home = () => {
                     <Education></Education>
                     <MyService></MyService>
                     <MyWork></MyWork>
-                    <Response/>
                     <Video/>
+                    <Review/>
+                    <Response/>
+                    
                 </div>
             </div>
             <div>
