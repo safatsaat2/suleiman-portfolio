@@ -14,8 +14,8 @@ const MyWork = () => {
             </div>
             </div> */}
             <div>
-            <h1 className="text-3xl lg:leading-[100px] lg:text-[100px] bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text text-center font-bold">200+</h1>
-            <h1 className="text-xl lg:text-xl text-white text-center font-normal">Projects done</h1>
+            <h1 className="text-7xl lg:leading-[400px] lg:text-[400px] bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text text-center font-bold">200+</h1>
+            <h1 className="text-xl lg:text-[80px] text-white text-center font-normal mt-10 font-mono">Projects Done</h1>
             </div>
         </div>
     );
