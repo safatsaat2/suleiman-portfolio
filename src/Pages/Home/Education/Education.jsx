@@ -27,6 +27,10 @@ const Education = () => {
                             <li className="flex items-center text-2xl my-4"><FaCheck className="mr-2 pr-1" /> Creative</li>
                             <li className="flex items-center text-2xl my-4"><FaCheck className="mr-2 pr-1" /> Dedicated</li>
                             <li className="flex items-center text-2xl my-4"><FaCheck className="mr-2 pr-1" /> Detail-oriented</li>
+                            <li className="flex items-center text-2xl my-4"><FaCheck className="mr-2 pr-1" />MS Excel</li>
+                            <li className="flex items-center text-2xl my-4"><FaCheck className="mr-2 pr-1" />MS Word</li>
+                            <li className="flex items-center text-2xl my-4"><FaCheck className="mr-2 pr-1" /> Adobe Photoshop</li>
+                            <li className="flex items-center text-2xl my-4"><FaCheck className="mr-2 pr-1" />Adobe Illustrator</li>
                         </ul>
                     </div>
                     :

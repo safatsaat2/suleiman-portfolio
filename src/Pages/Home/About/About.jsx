@@ -5,7 +5,7 @@ const About = () => {
         <div id="about" className="hero py-20 lg:py-32 bg-slate-900">
             <div className="hero-content flex-col lg:flex-row">
                 <Slide duration={1000} direction="left">
-                    <img src="https://i.ibb.co/dKVwLby/replicate-prediction-hjpwparb5757d6vunx3foztvkq.jpg" className="max-w-lg w-full rounded-lg shadow-2xl" />
+                    <img src="https://i.ibb.co/DDK9JjJ/FB-IMG-1706710193863-2-2.jpg" className="max-w-lg w-full rounded-lg shadow-2xl" />
                 </Slide>
                 <div className='lg:w-1/2 lg:ml-10'>
                     <Fade duration={3000}>

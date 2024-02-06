@@ -19,7 +19,7 @@ const Footer = () => {
                         <div className="flex items-center"><a className="hover:text-[#7163A2] text-[14px] flex items-center" href="https://wa.me/message/34OO4MRL7FQTL1"><FaPhoneAlt/>
                         <p className="px-2 text-[14px]">+8801568723929</p></a></div>
                         <div className="flex items-center"><FaGofore></FaGofore>
-                        <p className="px-2">sulymanahmedbd@gmail.com</p></div>
+                        <a href="mailto:mdsulymanali.bd@gmail.com" className="px-2">mdsulymanali.bd@gmail.com</a></div>
                     </div>
                 </div>
             </footer>
