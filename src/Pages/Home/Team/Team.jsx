@@ -13,22 +13,22 @@ const Team = () => {
                     <p className='text-[10px] text-[#b5a7e7] text-center'>MERN Stack Developer</p>
                 </div>
                 <div>
-                    <img className='rounded-lg max-h-[222px] w-full' src="https://i.ibb.co/s9k7kqD/Whats-App-Image-2024-02-06-at-00-30-59-87cf9106-1.jpg" alt="" />
+                    <img className='rounded-lg lg:max-h-[222px] w-full' src="https://i.ibb.co/s9k7kqD/Whats-App-Image-2024-02-06-at-00-30-59-87cf9106-1.jpg" alt="" />
                     <p className='lg:text-xl text-[#b5a7e7] text-center mt-2'>Md Kawsar Ahmed</p>
                     <p className='text-[10px] text-[#b5a7e7] text-center'>SEO Specialist</p>
                 </div>
                 <div>
-                    <img className='rounded-lg max-h-[222px] w-full' src="https://i.ibb.co/7QVX6RZ/Whats-App-Image-2024-02-06-at-00-31-47-2ffc2ae2-1.jpg" alt="" />
+                    <img className='rounded-lg lg:max-h-[222px] w-full' src="https://i.ibb.co/7QVX6RZ/Whats-App-Image-2024-02-06-at-00-31-47-2ffc2ae2-1.jpg" alt="" />
                     <p className='lg:text-xl text-[#b5a7e7] text-center mt-2'>RT Ibrahim Ahmed</p>
                     <p className='text-[10px] text-[#b5a7e7] text-center'>Digital Marketer</p>
                 </div>
                 <div>
-                    <img className='rounded-lg max-h-[222px] w-full' src="https://i.ibb.co/3CGgkWn/Whats-App-Image-2024-02-06-at-00-32-29-b40ecd82-1.jpg" alt="" />
+                    <img className='rounded-lg lg:max-h-[222px] w-full' src="https://i.ibb.co/3CGgkWn/Whats-App-Image-2024-02-06-at-00-32-29-b40ecd82-1.jpg" alt="" />
                     <p className='lg:text-xl text-[#b5a7e7] text-center mt-2'>Abu Sayed Masum</p>
                     <p className='text-[10px] text-[#b5a7e7] text-center'>Graphic Designer</p>
                 </div>
                 <div>
-                    <img className='rounded-lg max-h-[222px] w-full' src="https://i.ibb.co/gDcGnGs/Whats-App-Image-2024-02-06-at-00-33-40-b1629089-1.jpg" alt="" />
+                    <img className='rounded-lg lg:max-h-[222px] w-full' src="https://i.ibb.co/gDcGnGs/Whats-App-Image-2024-02-06-at-00-33-40-b1629089-1.jpg" alt="" />
                     <p className='lg:text-xl text-[#b5a7e7] text-center mt-2'>Md Maruf Ahmed</p>
                     <p className='text-[10px] text-[#b5a7e7] text-center'>Marketer</p>
                 </div>

@@ -13,7 +13,7 @@ const MyService = () => {
                     <p> the practice of sending messages, usually commercial, to a group of people via email.</p>
                 </div>
                 <div className="bg-slate-800 p-5 rounded-xl text-center shadow-md hover:-translate-y-3 duration-500">
-                    <h1 className="text-lg font-semibold text-[#b5a7e7]">Graphic design</h1>
+                    <h1 className="text-lg font-semibold text-[#b5a7e7]">Teacher</h1>
                     <p>It is the art of using visuals to convey messages in print and digital media.</p>
                 </div>
                 <div className="bg-slate-800 p-5 rounded-xl text-center shadow-md hover:-translate-y-3 duration-500">
