@@ -51,7 +51,7 @@ const Review = () => {
     return (
         <>
         <h1 className="py-20 lg:py-20 text-3xl lg:text-7xl text-center font-bold text-[#b5a7e7]">Client Testimonial</h1>
-        <div className='grid grid-cols-3 gap-10 justify-center '>
+        <div className='grid lg:grid-cols-3 gap-10 justify-center mx-2'>
             
             
             {
